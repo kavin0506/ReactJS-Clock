@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  font-size: 25px;
+  border: 1px solid;
+  width: 30%;
+  margin: auto;
+}
